@@ -1,0 +1,35 @@
+_repo: Nerves-and-Common-Sense_4339
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Call, Annie Payson
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '1451'
+    url: http://www.gutenberg.org/2009/agents/1451
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mental health'
+- !lcc 'RA'
+- GITenberg
+tableOfContents: Habit and nervous strain -- How women can keep from being nervous
+  -- "You have no idea how I am rushed" -- "Why does Mrs. Smith get on my nerves?"
+  -- The trying member of the family -- Irritable husbands -- Quiet vs. chronic excitement
+  -- The tired emphasis -- How to be ill and get well -- Is physical culture good
+  for girls? -- Working restfully -- Imaginary vacations -- The woman at the next
+  desk -- Telephones and telephoning -- Don't talk -- "Why fuss so much about what
+  I eat?" -- Take care of your stomach -- About faces -- About voices -- About frights
+  -- Contrariness -- How to sew easily -- Do not hurry -- The care of an invalid --
+  The habit of illness -- What is it that makes me so nervous? -- Positive and negative
+  effort -- Human dust -- Plain every-day common sense -- A summing up.
+title: Nerves and Common Sense
+url: http://www.gutenberg.org/ebooks/4339
